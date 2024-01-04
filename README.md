@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandrakant Thakur</h1>
+<h1 align="center">Hi 👋, I'm Mohd Gazanfar Ali Khan</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakant817&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakant817" /> </p>
@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **DS,ML,DL and NLP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/chandrakant-thakur-314414182/**
+- 📫 How to reach me **https://www.linkedin.com/in/mohdgazanfar09**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandrakant-thakur-314414182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohdgazanfar09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17506792/chandrakant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17506792/chandrakant" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/chandrakantbthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_chandrakant7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_chandrakant7" height="30" width="40" /></a>
